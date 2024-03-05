@@ -280,7 +280,8 @@ main {
 
     nav,
     .teams-container,
-    .sponsors-img-container {
+    .sponsors-img-container
+    ,.features {
         flex-direction: column;
     }
 
